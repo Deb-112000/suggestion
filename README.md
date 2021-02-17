@@ -1,2 +1,2 @@
 # suggestion
-to change thewhishlist
+to change the whishlist
